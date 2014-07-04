@@ -13,3 +13,7 @@ hs_err_pid*
 
 #OSX
 *.DS_Store
+
+#Maven
+report-server-ear/target
+report-server-war/target
